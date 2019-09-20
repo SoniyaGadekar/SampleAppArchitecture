@@ -1,1 +1,3 @@
-# SampleAppArchitecture
+# Square Repository App
+
+
