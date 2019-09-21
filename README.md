@@ -18,8 +18,8 @@ Below are the Cocoapod dependencies used in the app
   Used for unit test cases
   
   
-  # Future Scope
+# Future Scope
   
-  Include support for multipart data, from data, url encoded data
+ Include support for multipart data, from data, url encoded data
 
 
