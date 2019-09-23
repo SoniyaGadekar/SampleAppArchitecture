@@ -20,6 +20,8 @@ Below are the Cocoapod dependencies used in the app
   
 # Future Scope
   
- Include support for multipart data, from data, url encoded data
+ - Include support for multipart data, form data, url encoded data
+ 
+ - Use of Coordinator pattern for navigation handling in the application
 
 
